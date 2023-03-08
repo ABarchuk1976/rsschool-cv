@@ -1,1 +1,1 @@
-[Barchuk Andrii CV](https://abarchuk1976.github.io/rsschool-cv/cv)
+https://abarchuk1976.github.io/rsschool-cv
